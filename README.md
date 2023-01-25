@@ -1,3 +1,3 @@
 Welcome Everyone ..
 
-Let's Grind More.
+Let's Grind LeetCode More.
