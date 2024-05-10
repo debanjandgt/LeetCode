@@ -15,6 +15,7 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 
 Example 1:
 
+
 Input: s = "anagram", t = "nagaram"
 Output: true
 Example 2:
