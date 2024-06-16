@@ -50,3 +50,5 @@ Constraints:
 n == seats.length == students.length
 1 <= n <= 100
 1 <= seats[i], students[j] <= 100
+
+
