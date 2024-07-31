@@ -1,5 +1,6 @@
 1208. Get Equal Substrings Within Budget
 
+
 https://leetcode.com/problems/get-equal-substrings-within-budget/description/
 
 You are given two strings s and t of the same length and an integer maxCost.
