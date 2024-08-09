@@ -3,6 +3,7 @@
 
 https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/description/
 
+
 You are given an m x n binary matrix grid.
 
 A row or column is considered palindromic if its values read the same forward and backward.
