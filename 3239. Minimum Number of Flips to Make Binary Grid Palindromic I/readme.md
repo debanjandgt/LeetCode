@@ -6,6 +6,7 @@ https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palind
 
 You are given an m x n binary matrix grid.
 
+
 A row or column is considered palindromic if its values read the same forward and backward.
 
 You can flip any number of cells in grid from 0 to 1, or from 1 to 0.
