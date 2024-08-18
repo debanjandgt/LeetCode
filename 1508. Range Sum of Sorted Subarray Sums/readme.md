@@ -9,6 +9,7 @@ Return the sum of the numbers from index left to index right (indexed from 1), i
 
  
 
+
 Example 1:
 
 Input: nums = [1,2,3,4], n = 4, left = 1, right = 5
