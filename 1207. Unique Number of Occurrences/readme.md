@@ -21,6 +21,7 @@ Input: arr = [1,2]
 Output: false
 Example 3:
 
+
 Input: arr = [-3,0,1,-3,1,1,1,-3,10,0]
 Output: true
  
