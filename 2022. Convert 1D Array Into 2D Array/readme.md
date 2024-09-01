@@ -8,6 +8,7 @@ The elements from indices 0 to n - 1 (inclusive) of original should form the fir
 
 Return an m x n 2D array constructed according to the above procedure, or an empty 2D array if it is impossible.
 
+
  
 
 Example 1:
